@@ -1,0 +1,12 @@
+{
+  "export_job_id": "939ffc03-991c-4aac-b717-a818a785e10c",
+  "id_short": 308111,
+  "published_at": "2026-04-11T07:23:47Z",
+  "repo_name": "the-hhi-monopoly-index-for-philadelphia-camden-wilmington-metro-area-pa-nj-de-md-u-sample-308111",
+  "sample_asset_name": "beamstation_308111_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/308111/beamstation_308111_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
+  "sample_records": 45,
+  "sample_sha256": "69dfe429f4cbed11f2451fef7226fb1940bd254822a58c99493439f3f11e60be",
+  "sample_size_bytes": 191003,
+  "total_records": 456
+}
