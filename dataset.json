@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Philadelphia-Camden-Wilmington Metro Area, PA-NJ-DE-MD, US",
+  "export_job_id": "939ffc03-991c-4aac-b717-a818a785e10c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 308111,
+  "location_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+  "location_type": "metro",
+  "repo_name": "the-hhi-monopoly-index-for-philadelphia-camden-wilmington-metro-area-pa-nj-de-md-u-sample-308111",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/308111/beamstation_308111_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
+  "sample_pct": 9.87,
+  "sample_records": 45,
+  "sample_sha256": "69dfe429f4cbed11f2451fef7226fb1940bd254822a58c99493439f3f11e60be",
+  "sample_size_bytes": 191003,
+  "total_records": 456,
+  "updated_at": "2026-04-08T02:12:31.133139+00:00"
+}
