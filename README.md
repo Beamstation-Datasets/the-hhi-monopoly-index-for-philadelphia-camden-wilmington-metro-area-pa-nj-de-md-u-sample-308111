@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Philadelphia-Camden-Wilmington Metro Area, PA-NJ-DE-MD, US
 
-> Free BeamStation sample export with 45 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `308111` |
 | Location | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |
 | Category | Restaurants |
-| Full dataset size | 456 records |
-| Free sample size | 45 records (9.87%) |
-| Last export | 2026-04-08T02:12:31.133139+00:00 |
+| Full dataset size | 403 records |
+| Free sample size | 40 records (9.93%) |
+| Last export | 2026-04-15T07:39:59.949184+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-philadelphia-camden-wilmington-metro-area-pa-nj-de-md-u-sample-308111/releases/download/sample-latest/beamstation_308111_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
